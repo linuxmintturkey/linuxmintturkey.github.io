@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: ""
-tags: 100DaysToOffload
+tags: 
 ---
 
 # Linux Mint Aylık Bülten - Haziran
